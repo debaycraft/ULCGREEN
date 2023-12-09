@@ -12,7 +12,7 @@ body
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
-    background-image: url(img/GreenJudge.jpg);
+    background-image: url(GreenJudge.jpg);
     background-size: 100% 100%;
 }
 .container {
